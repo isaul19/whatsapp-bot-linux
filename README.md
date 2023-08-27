@@ -23,6 +23,6 @@ puedes ejecutar el proyecto con el siguiente comando: `npm run dev`.
 
 ### Nota sobre la ejecución
 
-Al ejecutar `npm run dev`, se generarán dos carpetas en la raíz del proyecto: `.wwebjs_auth` y
+Al ejecutar `npm run dev`, se generarán dos directorios en la raíz del proyecto: `.wwebjs_auth` y
 `.wwebjs_cache`. Existe un bug al generar el directorio `.wwebjs_cache` en algunas distribuciones de
 Linux, por lo tanto, se subirá en el repositorio con este ultimo.
